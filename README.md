@@ -9,4 +9,11 @@
   <h4> JavaScript
     
 <h2> Tela no pc:
-<img src="https://prnt.sc/YcVrg3R_nK_i" alt=site-no-pc>
+  <br>
+  <br>
+<img src="SitePrevisaoPc.png" alt=site-no-pc>
+  
+<h2> Tela no celular:
+<br>
+<br>
+<img src="SitePrevisaoCelular.png" alt=site-no-celular>
